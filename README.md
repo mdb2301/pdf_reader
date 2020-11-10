@@ -1,16 +1,3 @@
 # pdf
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A flutter app that allows user to read a PDF document. It consists of reading modes, which remind user of reading time. The app also contains a blue light filter which reduces amount of blue color on screen. Facebook audience network has been integrated to show ads with the reminders.
